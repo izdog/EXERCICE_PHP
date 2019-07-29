@@ -26,6 +26,6 @@
 ### Règles
 1. On contrôle les données saisies par l'utilisateur
 2. On ne peut pas insérer une ligne dans le fichier *"movies.csv"* si des éléments sont manquants.
-3. On affiche des erreurs, s'il y en a 
+3. On affiche les erreurs, s'il y en a 
 4. Si l'insertion de la ligne c'est correctement exécuté, on redirige l'utilisateur vers *"./index.php"*
 5. **Bonus :** l'utilisateur ne pas insérer une ligne si la valeur du *numéro d'identifiant* est déjà existant ou si la ligne fait doublon avec une ligne déjà présente dans le fichier
