@@ -1,4 +1,4 @@
-# Lire et écrire dans fichier avec PHP
+# Lire et écrire dans un fichier avec PHP
 
 **1°)** Afficher la liste des films présents dans le fichier  *"./data/movies.csv "* dans le fichier *"./ index.php "*. Pour ce faire vous utiliserez les fonctions `fgets()` ou `fgetcsv()`.
 
